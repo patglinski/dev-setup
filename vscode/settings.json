@@ -1,0 +1,37 @@
+{
+    "editor.cursorBlinking": "smooth",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14.5,
+    "editor.fontWeight": 600,
+    "editor.lineHeight": -0.5,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.parameterHints.enabled": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.tabCompletion": "on",
+    "explorer.sortOrder": "type",
+    "files.autoSave": "afterDelay",
+    "files.trimFinalNewlines": true,
+    "python.analysis.languageServerMode": "full",
+    "python.analysis.enablePytestSupport": true,
+    "python.analysis.typeCheckingMode": "standard",
+    "python.experiments.optInto": [
+        "pythonTestAdapter"
+    ],
+    "python.languageServer": "Pylance",
+    "python.testing.pytestEnabled": true,
+    // "python.testing.unittestEnabled": true,
+    "python.testing.autoTestDiscoverOnSaveEnabled": true,
+    "terminal.integrated.fontSize": 14,
+    "testing.automaticallyOpenPeekView": "never",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.settings.editor": "json",
+    "workbench.iconTheme": "vscode-icons"
+}
