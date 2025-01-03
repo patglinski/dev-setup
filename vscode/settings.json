@@ -1,5 +1,8 @@
 {
+    "better-comments.highlightPlainText": true,
+    "better-comments.multilineComments": true,
     "editor.cursorBlinking": "smooth",
+    "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontLigatures": true,
     "editor.fontSize": 14.5,
@@ -33,5 +36,5 @@
     "workbench.colorTheme": "Default Dark+",
     "workbench.editor.highlightModifiedTabs": true,
     "workbench.settings.editor": "json",
-    "workbench.iconTheme": "vscode-icons"
+    "workbench.iconTheme": "material-icon-theme"
 }
